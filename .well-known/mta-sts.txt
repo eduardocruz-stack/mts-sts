@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mx-02.eml100gru.ctr.sophos.com
+mx: mx-01.eml100gru.ctr.sophos.com
+max_age: 604800
